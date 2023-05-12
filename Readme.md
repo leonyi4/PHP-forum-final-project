@@ -1,4 +1,4 @@
-This is Nyi Nyein Aung (Leo), 6305040056, 3rd year IT student at Payap University International College
+Hello, I am Nyi Nyein Aung (Leo). I am a 3rd year IT student at Payap University International College
 This responsive web forum is the final project for the IT325 Web Programming course.
 It is made using HTML, CSS, PHP, JavaScript and MySQL and hosted on a local server using Apache.
 
